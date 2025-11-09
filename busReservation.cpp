@@ -353,7 +353,7 @@ int main()
   //Choice will be users input to use different functionality over system using switch 
   int choice;
   vline('-');
-  cout<<"\t\t\t\t****SM Bus Travel Agency****"<<endl<<endl;
+  cout<<"\t\t\t\t****Bus Travel Agency****"<<endl<<endl;
   vline('-');
   while(1)
   {
@@ -401,7 +401,7 @@ int main()
       break;
 
     case 5:  {
-      cout<<"Successfully Logged out from the Application. Visit Again!"<<endl<<"<Thanks You :)>"<<endl<<"Created By Sourav Mondal"<<endl;
+      cout<<"Successfully Logged out from the Application. Visit Again!"<<endl<<"<Thanks You :)>"<<endl;
       exit(0);
     };
 
