@@ -19,7 +19,7 @@ Normal Input/Output format for the code:
 rajvansh@rajv-pc:~/Documents$ g++ smBusRes.cpp
 rajvansh@rajv-pc:~/Documents$ ./a.out
 ---------------------------------------------------------------------------
-				****SM Bus Travel Agency****
+				****Bus Travel Agency****
 
 ---------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ rajvansh@rajv-pc:~/Documents$ ./a.out
 ***************************************************************************
 Enter bus no: 123
 
-Enter Driver's name: Sam
+Enter Driver's name: Nihal
 
 Arrival time : 12:05AM
 
@@ -61,7 +61,7 @@ To: 			LKI
 ***************************************************************************
 Enter bus no: 245
 
-Enter Driver's name: Josh
+Enter Driver's name: Daksh
 
 Arrival time : 01:15PM
 
